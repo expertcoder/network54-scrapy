@@ -1,0 +1,46 @@
+[
+  {
+    "url": "http://original-url/ (Not required)",
+    "posts": [
+      {
+        "contents": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "top": true,
+        "title": "adipiscing elit, sed do eiusmod tempor",
+        "screen_name": "John",
+        "date": "September 20 2017 at 7:54 PM",
+        "user_name": "john1990"
+      }
+    ],
+    "title": "adipiscing elit, sed do eiusmod tempor (same as first post)"
+  },
+  {
+    "url": "http://original-url/ (Not required)",
+    "posts": [
+      {
+        "contents": "consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "top": true,
+        "title": "Lorem ipsum dolor sit amet",
+        "screen_name": "Ilune",
+        "date": "September 15 2017 at 4:41 AM",
+        "user_name": "Ilune"
+      },
+      {
+        "contents": "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "user_name": "john1990",
+        "title": "consectetur adipiscing elit",
+        "date": "September 15 2017, 6:22 PM",
+        "screen_name": "John",
+        "top": false
+      },
+      {
+        "contents": "ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "user_name": "paul",
+        "title": "incididunt ut labore et dolore",
+        "date": "September 16 2017, 6:48 AM",
+        "screen_name": "paul",
+        "top": false
+      }
+    ],
+    "title": "Lorem ipsum dolor sit amet (Same as title of first post)"
+  }
+]
