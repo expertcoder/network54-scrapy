@@ -1,3 +1,5 @@
+![Freelance Banner](https://s3.eu-central-1.amazonaws.com/static.expertcoder.io/github-banner/banner.png)
+
 # network54-scrapy
 The old network54 forum is failing, there is no longer any support. Critical features are no longer working and there are runmours of data/forums disappearing.
 
